@@ -1,2 +1,20 @@
-# SOUNDSYNC-
-The Smart Music Player and Playlist Management System is a C++-based application for managing and playing a predefined collection of songs. It enables efficient song searching, metadata display, playlist management, and local audio playback while demonstrating OOP, data structures, algorithms, and file-handling concepts.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/feb1e2fe-a829-485c-90fb-fcfb95021f47
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
