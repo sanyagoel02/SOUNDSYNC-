@@ -1,0 +1,6 @@
+{
+  "name": "SoundSync",
+  "description": "High-performance music workstation and algorithmic audio engine powered by C++ DSA local streaming and Web Audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
