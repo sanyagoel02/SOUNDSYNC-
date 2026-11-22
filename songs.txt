@@ -1,0 +1,42 @@
+# SoundSync Local Metadata Database
+# Format: ID|Title|Artist|Album|Path|Duration
+1|Midnight Pulse|Neon Eclipse|Cyber City OST|/assets/audio/midnight_pulse.flac|3:42
+2|Echoes of Eternity|Sarah Jenkins|Celestial Drift|/assets/audio/echoes_of_eternity.wav|4:15
+3|Binary Sunset|CodeWave|Algorithmic Beats|/assets/audio/binary_sunset.flac|2:58
+4|Violet Horizon|Kaelen Brooks|Velvet Skylines|/assets/audio/violet_horizon.wav|3:51
+5|Quantum Resonance|The DSA Collective|Binary Dreams|/assets/audio/quantum_resonance.flac|4:08
+6|Electric Rain|Lofi Automaton|Chill Circuits|/assets/audio/electric_rain.wav|3:15
+7|Starlight Mirage|Astraea|Nebula Odyssey|/assets/audio/starlight_mirage.flac|4:45
+8|Deep Wave Memory|SubZero Sound|Low Latency|/assets/audio/deep_wave_memory.wav|5:12
+9|Neon Boulevard|Synthetica|Retro Future|/assets/audio/neon_boulevard.flac|3:30
+10|Whispers in the Dark|Elena Rostova|Nocturne Suite|/assets/audio/whispers_in_the_dark.wav|4:22
+11|Recursive Loop|DevTrack|Stack Overflow|/assets/audio/recursive_loop.flac|3:04
+12|Aether Drift|Solar Flare|Cosmic Dust|/assets/audio/aether_drift.flac|3:48
+13|Chasing Shadows|The Night Owls|Midnight Chronicles|/assets/audio/chasing_shadows.wav|4:01
+14|Silicon Harmony|ZeroPointer|Memory Allocated|/assets/audio/silicon_harmony.flac|3:36
+15|Velvet Echo|Maya Lin|Acoustic Reverie|/assets/audio/velvet_echo.wav|3:24
+16|Hyperdrive|TurboFlux|Warp Velocity|/assets/audio/hyperdrive.flac|2:49
+17|Golden Hour Reverie|Julian Vance|Sunset Mirage|/assets/audio/golden_hour.wav|4:18
+18|Glitch in the Matrix|CyberCore|System Halt|/assets/audio/glitch_matrix.flac|3:11
+19|Ocean of Glass|Pacific Wave|Deep Tides|/assets/audio/ocean_of_glass.wav|4:32
+20|Prism of Light|Chromatic|Spectrum|/assets/audio/prism_of_light.flac|3:55
+21|Northern Aurora|Arctic Bloom|Polar Night|/assets/audio/northern_aurora.wav|4:50
+22|Analog Dreams|Tape Deck Heroes|Vintage Soul|/assets/audio/analog_dreams.flac|3:18
+23|Pulse of the City|Urban Groove|Metro Rhythm|/assets/audio/pulse_of_city.wav|3:40
+24|Entropy Zero|Null Reference|Garbage Collector|/assets/audio/entropy_zero.flac|4:12
+25|Final Cadence|Symphony of Bytes|Graduation Opus|/assets/audio/final_cadence.wav|5:05
+26|Sunset Boulevard|Chloe Martin|Golden Skies|/assets/audio/sunset_boulevard.flac|3:28
+27|Streets of Tokyo|Kenji Takahashi|Neon Alley|/assets/audio/streets_of_tokyo.wav|3:14
+28|Lost in Your Eyes|Marcus Rivera|Heartstrings|/assets/audio/lost_in_your_eyes.flac|4:06
+29|Summer Breeze|The Coastal Collective|Laguna Sessions|/assets/audio/summer_breeze.wav|3:38
+30|Bassline Odyssey|DJ Volt|Club Resonance|/assets/audio/bassline_odyssey.flac|4:15
+31|Blue Note Serenade|Miles Quartet|Late Night Velvet|/assets/audio/blue_note_serenade.flac|5:20
+32|Thunderstruck Horizon|Blackout Valley|High Voltage|/assets/audio/thunderstruck_horizon.wav|3:45
+33|After Hours Groove|Savannah Cruz|Midnight Velvet|/assets/audio/after_hours_groove.flac|3:58
+34|Sunrise Festival|Apex Mirage|Tomorrowland Anthem|/assets/audio/sunrise_festival.flac|3:50
+35|Moonlight Sonata in D|Clara Fontaine|Ivory Reflections|/assets/audio/moonlight_sonata.flac|4:40
+36|Coffee & Raindrops|Oliver Finch|Warm Sweater|/assets/audio/coffee_and_raindrops.wav|3:22
+37|Fiesta Caliente|Rio Syndicate|Carnaval Del Sol|/assets/audio/fiesta_caliente.flac|3:34
+38|Midnight Serenade|Seraphina Fox|Crimson Velvet|/assets/audio/midnight_serenade.flac|3:36
+39|Neon Velocity|Kavinsky Sound|Autobahn Noir|/assets/audio/neon_velocity.flac|3:48
+40|Clair de Lune Variations|Julian Moreau|Parisian Moonlight|/assets/audio/clair_de_lune_variations.flac|4:18
